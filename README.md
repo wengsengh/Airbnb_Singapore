@@ -20,9 +20,9 @@ We start with business understanding by asking 3 questions:
 3. What are the property characteristics give higher revenues in Singapore with Airbnb?
 
 ## Data
-calendar.csv: Date, availability, and price data for each listing
-listings.csv: Listing about host details, location description, review ratings, and etc.
-reviews.csv: The review comments
+- calendar.csv: Date, availability, and price data for each listing
+- listings.csv: Listing about host details, location description, review ratings, and etc.
+- reviews.csv: The review comments
 
 ## What do I need to install?
 - Jupyter Notebook
